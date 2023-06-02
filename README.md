@@ -12,7 +12,7 @@
 <br/>
 <img width="960" alt="Screenshot 2023-06-02 221624" src="https://github.com/grouciyacine/iphone14/assets/107037694/c7d7cd61-94f9-403a-bf1f-db897bb2ee88">
 <br/>
-# Responsive
+## Responsive
 <br/>
 <br/>
 <br/>
