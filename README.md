@@ -2,22 +2,21 @@
 
 # iPhone 14 Website
 
-<img width="960" alt="Screenshot 2023-06-02 221515" src="https://github.com/grouciyacine/iphone14/assets/107037694/e073ffca-e495-4df1-8468-0a00c0baa398">
+<img width="460" alt="Screenshot 2023-06-02 221515" src="https://github.com/grouciyacine/iphone14/assets/107037694/e073ffca-e495-4df1-8468-0a00c0baa398">
 <br/>
 <br/>
 <br/>
-<img width="960" alt="Screenshot 2023-06-02 221553" src="https://github.com/grouciyacine/iphone14/assets/107037694/ad23ba91-46ec-44c2-acff-2648794920ec">
+<img width="460" alt="Screenshot 2023-06-02 221553" src="https://github.com/grouciyacine/iphone14/assets/107037694/ad23ba91-46ec-44c2-acff-2648794920ec">
 <br/>
 <br/>
 <br/>
-<img width="960" alt="Screenshot 2023-06-02 221624" src="https://github.com/grouciyacine/iphone14/assets/107037694/c7d7cd61-94f9-403a-bf1f-db897bb2ee88">
+<img width="460" alt="Screenshot 2023-06-02 221624" src="https://github.com/grouciyacine/iphone14/assets/107037694/c7d7cd61-94f9-403a-bf1f-db897bb2ee88">
 # Responsive
 <br/>
 <br/><br/>
 <img width="200" alt="" src="https://github.com/grouciyacine/iphone14/assets/107037694/02ece9f8-2295-4a63-bc43-974eefc97016"/>
 <img width="200" alt="" src="https://github.com/grouciyacine/iphone14/assets/107037694/dab76917-e2e5-4315-9760-444585211c5f"/>
-<img width="200" alt="" src="https://github.com/grouciyacine/iphone14/assets/107037694/02ece9f8-2295-4a63-bc43-974eefc97016"/>
-![mobile (2)]()![mobile (1)]()
+<img width="200" alt="" src="https://github.com/grouciyacine/iphone14/assets/107037694/a10dcaed-666e-4ded-a2c8-9aca72289e57"/>
 
 
 
